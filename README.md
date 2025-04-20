@@ -1,4 +1,4 @@
-<h1 align="center"># Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 This is **Md Omaer**. I am a **Competitive Programmer**.
 
