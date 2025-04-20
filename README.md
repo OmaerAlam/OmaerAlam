@@ -1,9 +1,8 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 ![](https://komarev.com/ghpvc/?username=OmaerAlam&color=blue)
 
-This is **Md Omaer**. I am a **Competitive Programmer**. Connect with me here -
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkdin-white?style=plastic&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/md-omaer-448013266/)](https://www.linkedin.com/in/md-omaer-448013266/)
+This is **Md Omaer**. I am a **Competitive Programmer**. 
+Connect with me here - [![Linkedin Badge](https://img.shields.io/badge/-Linkdin-white?style=plastic&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/md-omaer-448013266/)](https://www.linkedin.com/in/md-omaer-448013266/)
 
 - 🏢  I'm currently working on : <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> | 
 
