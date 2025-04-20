@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+![](https://komarev.com/ghpvc/?username=OmaerAlam&color=blue)
+
+This is **Md Omaer**. I am a **Competitive Programmer**. Connect with me here -
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkdin-white?style=plastic&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/md-omaer-448013266/)](https://www.linkedin.com/in/md-omaer-448013266/)
+
+- 🏢  I'm currently working on : <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> | 
 
 <!--
 **OmaerAlam/OmaerAlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmaerAlam&layout=compact&langs_count=6&theme=cobalt2)](https://github.com/OmaerAlam/github-readme-stats)
+<br> <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmaerAlam&show_icons=true&theme=radical)
+
