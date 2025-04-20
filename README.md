@@ -1,7 +1,7 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-![](https://komarev.com/ghpvc/?username=OmaerAlam&color=blue)
+<h1 align="center"># Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
+<h3 align="center"> This is **Md Omaer**. I am a **Competitive Programmer**.</h3>
 
-This is **Md Omaer**. I am a **Competitive Programmer**.
+![](https://komarev.com/ghpvc/?username=OmaerAlam&color=blue)
 
 Connect with me here -
 
