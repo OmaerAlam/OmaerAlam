@@ -1,10 +1,10 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
-This is **Md Omaer**.
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=OmaerAlam" alt="OmaerAlam" /> </p>
+<p align="center"> **Md Omaer**.
+<img src="https://komarev.com/ghpvc/?username=OmaerAlam" alt="OmaerAlam" />
 
 Connect with me here : 
-[![Linkedin Badge](https://img.shields.io/badge/-omaer-white?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-omaer-448013266/)](https://www.linkedin.com/in/md-omaer-448013266/)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-white?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-omaer-448013266/)](https://www.linkedin.com/in/md-omaer-448013266/)
 
 
 <p align="left">
