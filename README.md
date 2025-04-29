@@ -3,13 +3,11 @@
 This is **Md Omaer**.
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=OmaerAlam" alt="OmaerAlam" /> </p>
 
-<p align="left">
 Connect with me here : 
-[![Linkedin Badge](https://img.shields.io/badge/-nazir-white?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-omaer-448013266/)](https://www.linkedin.com/in/md-omaer-448013266/)
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-omaer-white?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-omaer-448013266/)](https://www.linkedin.com/in/md-omaer-448013266/)
+
 
 <p align="left">
-
 
 - Languages :
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
