@@ -2,7 +2,6 @@
 
 <p align="center"> Md Omaer </p>
 
-<img src="https://komarev.com/ghpvc/?username=OmaerAlam" alt="OmaerAlam" />
 
 Connect with me here : 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-white?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-omaer-448013266/)](https://www.linkedin.com/in/md-omaer-448013266/)
@@ -86,20 +85,10 @@ Connect with me here :
 </p>
 
 
-<!--
-**OmaerAlam/OmaerAlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=OmaerAlam" alt="OmaerAlam" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ &nbsp;GitHub Analytics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmaerAlam&layout=compact&langs_count=6&theme=cobalt2)](https://github.com/OmaerAlam/github-readme-stats)
 <br> <br>
