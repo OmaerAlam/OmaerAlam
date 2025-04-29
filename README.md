@@ -8,7 +8,9 @@ Connect with me here -
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkdin-white?style=plastic&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/md-omaer-448013266/)](https://www.linkedin.com/in/md-omaer-448013266/)
 
+
 <p align="left">
+
 
 - Languages :
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -29,6 +31,7 @@ Connect with me here -
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
+
   
 - Frontend :
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -43,6 +46,7 @@ Connect with me here -
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
+
   
 - Backend :
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -54,6 +58,7 @@ Connect with me here -
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
   </a>
+
   
 - Databases :
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -62,6 +67,7 @@ Connect with me here -
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   </a>
+
 
 - Data & Cloud :
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
@@ -96,6 +102,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmaerAlam&layout=compact&langs_count=6&theme=cobalt2)](https://github.com/OmaerAlam/github-readme-stats)
 <br> <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmaerAlam&show_icons=true&theme=radical)
