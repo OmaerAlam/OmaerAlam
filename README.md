@@ -4,9 +4,7 @@ This is **Md Omaer**.
 
 ![](https://komarev.com/ghpvc/?username=OmaerAlam&color=blue)
 
-Connect with me here -
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkdin-white?style=plastic&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/md-omaer-448013266/)](https://www.linkedin.com/in/md-omaer-448013266/)
+Connect with me here : [![Linkedin Badge](https://img.shields.io/badge/-Linkdin-white style=plastic&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/md-omaer-448013266/)](https://www.linkedin.com/in/md-omaer-448013266/)
 
 
 <p align="left">
